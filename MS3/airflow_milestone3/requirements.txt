@@ -1,0 +1,6 @@
+scikit-learn
+dash
+pandas
+numpy
+SQLAlchemy
+convertbng
